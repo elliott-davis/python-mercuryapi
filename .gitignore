@@ -6,3 +6,4 @@ mercuryapi-*/
 *.egg-info
 Examples/
 Tests/
+.venv/
